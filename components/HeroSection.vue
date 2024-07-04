@@ -9,7 +9,7 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="file:///C:/Users/Atmanto/OneDrive%20-%20UNIVERSITAS%20AMIKOM%20YOGYAKARTA/KULIAH/SEMESTER%204/Pemrograman%20Web/UAS%20RESPONSI/responsi_pw_4697/catto.jpg" alt="Admin" class="rounded-circle" width="150">
+                   <img src="D:\22.11.4697\Responsi\responsi_pw_4697\catto.jpg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Eleonora Inez Febri Atmanta</h4>
                       <p class="text-secondary mb-1">A Learner</p>
