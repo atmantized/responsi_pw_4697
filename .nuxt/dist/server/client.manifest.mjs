@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Atmanto/OneDrive%20-%20UNIVERSITAS%20AMIKOM%20YOGYAKARTA/KULIAH/SEMESTER%204/Pemrograman%20Web/UAS%20RESPONSI/responsi_pw_4697/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
